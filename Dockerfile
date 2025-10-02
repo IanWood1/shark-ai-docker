@@ -38,6 +38,7 @@ RUN apt-get update && \
     pre-commit \
     python3-dev \
     python3-venv \
+    ripgrep \
     vim \
     wget && \
     apt-get clean && \
