@@ -39,6 +39,7 @@ RUN apt-get update && \
     python3-dev \
     python3-venv \
     ripgrep \
+    lldb-18 \
     vim \
     wget && \
     apt-get clean && \
